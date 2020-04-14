@@ -5,6 +5,11 @@ public class Persion {
     private Integer age;
     private String name;
 
+    public void drink(){
+        System.out.println("fei zai kuai le shui");
+
+    }
+
     public void eat(){
         System.out.println("喜欢吃肉");
     }
