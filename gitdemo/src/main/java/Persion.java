@@ -9,6 +9,9 @@ public class Persion {
         System.out.println("fei zai kuai le shui");
 
     }
+    public void test(){
+        System.out.println("========");
+    }
 
     public void eat(){
         System.out.println("喜欢吃肉");
